@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SOAPDemo</string>
+    <string name="enter_message_to_convert">Enter message to convert</string>
+    <string name="convert">Convert</string>
+</resources>
